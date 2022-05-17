@@ -1,6 +1,9 @@
+.gameover{
+    background-image: url(img/background_lose.png);
+}
 html{
     background-image: url(img/Background.png) ;
-    margin-top: 5%;
+    margin-top: 1%;
 }
 h1{
     text-align: center;
@@ -12,7 +15,9 @@ h2{
     color: rgb(255, 226, 226);
 }
 .main{
+
     margin-top: 5%;
+
 }
 body{
     display: block;
